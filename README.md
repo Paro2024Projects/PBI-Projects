@@ -11,3 +11,15 @@ Designed charts and graphs using Power BI, enhancing data transparency and acces
 Developed and rolled out Power BI reports, expediting business decisions by 30%
 
 Spearheaded the migration of old reports to Power BI, reducing report generation time by 50% and increasing the accuracy of financial forecasts by 25%.
+
+
+HR ANALYTICS Report
+Identified key factors to reduce attrition
+
+Improved the hiring process
+
+Improved employee experience
+
+Made workforce more productive
+
+Gained employee trust
