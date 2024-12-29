@@ -1,5 +1,5 @@
 # PBI-Projects
-**Supermarket Report**:
+**Supermarket Report** :
 
 Developed interactive Power BI reports to portray complex data sets
 
@@ -8,7 +8,7 @@ Implemented new techniques for visual data representation, accelerating decision
 Designed charts and graphs using Power BI, enhancing data transparency and accessibility
 
 
-**US Sales Report**:
+**US Sales Report** :
 
 Developed and rolled out Power BI reports, expediting business decisions
 
@@ -18,7 +18,7 @@ Reduced report generation time
 
 Increased the accuracy of financial forecasts
 
-**HR ANALYTICS Report**:
+**HR ANALYTICS Report** :
 
 Identified key factors to reduce attrition
 
